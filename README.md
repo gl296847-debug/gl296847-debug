@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Olá, eu sou Gabriel Lopes!
 
-<!--
-**gl296847-debug/gl296847-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software**  
+💻 Interessado em desenvolvimento de software e tecnologia  
+🚀 Buscando evoluir constantemente e transformar ideias em projetos
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mim
+
+Sou estudante de Engenharia de Software e estou construindo minha trajetória na área de tecnologia.
+
+Tenho conhecimentos em desenvolvimento utilizando **Java, JavaScript, HTML e CSS**, e estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades através de projetos práticos.
+
+Este GitHub é onde compartilho meus estudos, projetos e minha evolução como desenvolvedor.
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
+- ☕ Java
+- 🟨 JavaScript
+
+### Desenvolvimento Web
+- 🌐 HTML
+- 🎨 CSS
+
+---
+
+## 🚀 Projetos
+
+Aqui você encontrará projetos desenvolvidos durante meus estudos e minha evolução na programação.
+
+### 📋 Sistema de Cadastro
+Sistema de cadastro desenvolvido em Java com armazenamento de dados em banco de dados.
+
+**Tecnologias:** Java • Banco de Dados
+
+> Projeto em desenvolvimento 🚧
+
+---
+
+## 📚 Atualmente estudando
+
+- ☕ Java
+- 🗄️ Banco de dados
+- 🌐 Desenvolvimento Web
+- 🧩 Engenharia de Software
+- 🚀 Desenvolvimento de projetos práticos
+
+---
+
+## 🎯 Objetivo
+
+Continuar evoluindo como desenvolvedor, adquirindo experiência prática e criando projetos cada vez mais completos.
+
+---
+
+## 📫 Contato
+
+📧 Em breve adicionarei meus contatos profissionais.
+
+---
+
+⭐ Obrigado por visitar meu perfil!
